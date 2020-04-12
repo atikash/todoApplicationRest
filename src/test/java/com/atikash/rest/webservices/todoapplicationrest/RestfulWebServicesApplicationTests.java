@@ -1,4 +1,4 @@
-package com.atikash.rest.webservices.restfulwebservices;
+package com.atikash.rest.webservices.todoapplicationrest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

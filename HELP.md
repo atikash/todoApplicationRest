@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.atikash.rest.webservices.restful-web-services' is invalid and this project uses 'com.atikash.rest.webservices.restfulwebservices' instead.
+* The original package name 'com.atikash.rest.webservices.restful-web-services' is invalid and this project uses 'com.atikash.rest.webservices.todoapplicationrest' instead.
 
 # Getting Started
 

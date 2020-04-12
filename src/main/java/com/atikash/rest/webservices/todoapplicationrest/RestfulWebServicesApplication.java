@@ -1,4 +1,4 @@
-package com.atikash.rest.webservices.restfulwebservices;
+package com.atikash.rest.webservices.todoapplicationrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
