@@ -1,4 +1,4 @@
-package com.atikash.rest.webservices.todoapplicationrest.bean;
+package com.atikash.rest.webservices.basic.auth;
 
 public class AuthenticationBean {
     String message;

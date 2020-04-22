@@ -1,0 +1,3 @@
+Moved All Basic Authentication files to a different package
+so, that spring does not pick tup the basic auth service and picks up the JWT servcie.
+

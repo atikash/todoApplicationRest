@@ -1,4 +1,4 @@
-package com.atikash.rest.webservices.todoapplicationrest.config;
+package com.atikash.rest.webservices.basic.auth;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
