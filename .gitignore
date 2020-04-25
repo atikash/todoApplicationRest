@@ -26,3 +26,6 @@ hs_err_pid*
 /target/
 *.iml
 restful-web-services.iml
+*.iml
+restful-web-services.iml
+*.iml
