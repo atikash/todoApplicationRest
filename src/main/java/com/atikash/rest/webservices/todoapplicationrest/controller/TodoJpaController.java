@@ -29,7 +29,7 @@ public class TodoJpaController {
 
     @DeleteMapping("/jpa/users/{username}/todos/{id}")
     public ResponseEntity<Todo> deleteTodo(@PathVariable String username, @PathVariable long id) {
-        Todo todo = todoService.deleteById(id);
+//        Todo todo = todoService.deleteById(id);
         todoJpaRepository.deleteById(id);
 //        if (todo != null)
             return ResponseEntity.noContent().build();
